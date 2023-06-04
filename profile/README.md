@@ -302,6 +302,7 @@
       <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.Net.Primitives'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.Net.Primitives&metric=coverage'></a>
       <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.Net.Primitives'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.Net.Primitives&metric=reliability_rating'></a>
       <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.Net.Primitives'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.Net.Primitives&metric=bugs'></a>
+      <a href='https://dashboard.stryker-mutator.io/reports/github.com/TechNobre/PowerUtils.Net.Primitives/main'><img src='https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2FTechNobre%2FPowerUtils.Net.Primitives%2Fmain'></a>
     </td>
   </tr>
 
