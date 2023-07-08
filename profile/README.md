@@ -324,24 +324,4 @@
     </td>
   </tr>
 
-  <tr>
-    <td><a href='https://github.com/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth'>PowerUtils.AspNetCore.Authentication.BasicAuth</a></td>
-    <td>
-      <a href='https://www.nuget.org/packages/PowerUtils.AspNetCore.Authentication.BasicAuth'><img src='https://img.shields.io/nuget/v/PowerUtils.AspNetCore.Authentication.BasicAuth.svg'></a>
-      <a href='https://www.nuget.org/packages/PowerUtils.AspNetCore.Authentication.BasicAuth'><img src='https://img.shields.io/nuget/dt/PowerUtils.AspNetCore.Authentication.BasicAuth.svg'></a>
-    </td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td><a href='https://github.com/TechNobre/PowerUtils.AspNetCore.Authentication.JwtBearer'>PowerUtils.AspNetCore.Authentication.JwtBearer</a></td>
-    <td>
-      <a href='https://www.nuget.org/packages/PowerUtils.AspNetCore.Authentication.JwtBearer'><img src='https://img.shields.io/nuget/v/PowerUtils.AspNetCore.Authentication.JwtBearer.svg'></a>
-      <a href='https://www.nuget.org/packages/PowerUtils.AspNetCore.Authentication.JwtBearer'><img src='https://img.shields.io/nuget/dt/PowerUtils.AspNetCore.Authentication.JwtBearer.svg'></a>
-    </td>
-    <td></td>
-  </tr>
-
-
-
 </table>
