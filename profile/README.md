@@ -64,21 +64,7 @@
     </td>
   </tr>
 
-  <tr>
-    <td><a href='https://github.com/TechNobre/PowerUtils.AspNetCore.ErrorHandler.Validations'>PowerUtils.AspNetCore.ErrorHandler.Validations</a></td>
-    <td>
-      <a href='https://www.nuget.org/packages/PowerUtils.AspNetCore.ErrorHandler.Validations'><img src='https://img.shields.io/nuget/v/PowerUtils.AspNetCore.ErrorHandler.Validations.svg'></a>
-      <a href='https://www.nuget.org/packages/PowerUtils.AspNetCore.ErrorHandler.Validations'><img src='https://img.shields.io/nuget/dt/PowerUtils.AspNetCore.ErrorHandler.Validations.svg'></a>
-    </td>
-    <td>
-      <a href='https://github.com/TechNobre/PowerUtils.AspNetCore.ErrorHandler.Validations/actions/workflows/tests.yml'><img src='https://github.com/TechNobre/PowerUtils.AspNetCore.ErrorHandler.Validations/actions/workflows/tests.yml/badge.svg'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.AspNetCore.ErrorHandler.Validations'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.AspNetCore.ErrorHandler.Validations&metric=alert_status'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.AspNetCore.ErrorHandler.Validations'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.AspNetCore.ErrorHandler.Validations&metric=coverage'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.AspNetCore.ErrorHandler.Validations'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.AspNetCore.ErrorHandler.Validations&metric=reliability_rating'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.AspNetCore.ErrorHandler.Validations'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.AspNetCore.ErrorHandler.Validations&metric=bugs'></a>
-      <a href='https://dashboard.stryker-mutator.io/reports/github.com/TechNobre/PowerUtils.AspNetCore.ErrorHandler.Validations/main'><img src='https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2FTechNobre%2FPowerUtils.AspNetCore.ErrorHandler.Validations%2Fmain'></a>
-    </td>
-  </tr>
+
 
   <tr>
     <td><a href='https://github.com/TechNobre/PowerUtils.AspNetCore.ErrorHandler.ResponseTypes'>PowerUtils.AspNetCore.ErrorHandler.ResponseTypes</a></td>
