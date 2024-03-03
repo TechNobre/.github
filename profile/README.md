@@ -114,21 +114,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td><a href='https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI'>PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI</a></td>
-    <td>
-      <a href='https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI'><img src='https://img.shields.io/nuget/v/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI.svg'></a>
-      <a href='https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI'><img src='https://img.shields.io/nuget/dt/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI.svg'></a>
-    </td>
-    <td>
-      <a href='https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI/actions/workflows/tests.yml'><img src='https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI/actions/workflows/tests.yml/badge.svg'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI&metric=alert_status'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI&metric=coverage'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI&metric=reliability_rating'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI&metric=bugs'></a>
-    </td>
-  </tr>
-
 
 
   <tr>
