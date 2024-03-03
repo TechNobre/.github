@@ -102,21 +102,6 @@
 
 
   <tr>
-    <td><a href='https://github.com/TechNobre/PowerUtils.BuildingBlocks.Domain.Data'>PowerUtils.BuildingBlocks.Domain.Data</a></td>
-    <td>
-      <a href='https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Domain.Data'><img src='https://img.shields.io/nuget/v/PowerUtils.BuildingBlocks.Domain.Data.svg'></a>
-      <a href='https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Domain.Data'><img src='https://img.shields.io/nuget/dt/PowerUtils.BuildingBlocks.Domain.Data.svg'></a>
-    </td>
-    <td>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.BuildingBlocks.Domain.Data'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.BuildingBlocks.Domain.Data&metric=alert_status'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.BuildingBlocks.Domain.Data'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.BuildingBlocks.Domain.Data&metric=reliability_rating'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.BuildingBlocks.Domain.Data'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.BuildingBlocks.Domain.Data&metric=bugs'></a>
-    </td>
-  </tr>
-
-
-
-  <tr>
     <td><a href='https://github.com/TechNobre/PowerUtils.Text'>PowerUtils.Text</a></td>
     <td>
       <a href='https://www.nuget.org/packages/PowerUtils.Text'><img src='https://img.shields.io/nuget/v/PowerUtils.Text.svg'></a>
