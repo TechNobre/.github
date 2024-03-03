@@ -162,23 +162,6 @@
 
 
   <tr>
-    <td><a href='https://github.com/TechNobre/PowerUtils.Validations.Primitives'>PowerUtils.Validations.Primitives</a></td>
-    <td>
-      <a href='https://www.nuget.org/packages/PowerUtils.Validations.Primitives'><img src='https://img.shields.io/nuget/v/PowerUtils.Validations.Primitives.svg'></a>
-      <a href='https://www.nuget.org/packages/PowerUtils.Validations.Primitives'><img src='https://img.shields.io/nuget/dt/PowerUtils.Validations.Primitives.svg'></a>
-    </td>
-    <td>
-      <a href='https://github.com/TechNobre/PowerUtils.Validations.Primitives/actions/workflows/tests.yml'><img src='https://github.com/TechNobre/PowerUtils.Validations.Primitives/actions/workflows/tests.yml/badge.svg'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.Validations.Primitives'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.Validations.Primitives&metric=alert_status'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.Validations.Primitives'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.Validations.Primitives&metric=coverage'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.Validations.Primitives'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.Validations.Primitives&metric=reliability_rating'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.Validations.Primitives'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.Validations.Primitives&metric=bugs'></a>
-    </td>
-  </tr>
-
-
-
-  <tr>
     <td><a href='https://github.com/TechNobre/PowerUtils.Text'>PowerUtils.Text</a></td>
     <td>
       <a href='https://www.nuget.org/packages/PowerUtils.Text'><img src='https://img.shields.io/nuget/v/PowerUtils.Text.svg'></a>
