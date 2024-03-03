@@ -102,20 +102,6 @@
 
 
   <tr>
-    <td><a href='https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data'>PowerUtils.BuildingBlocks.Data</a></td>
-    <td>
-      <a href='https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Data'><img src='https://img.shields.io/nuget/v/PowerUtils.BuildingBlocks.Data.svg'></a>
-      <a href='https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Data'><img src='https://img.shields.io/nuget/dt/PowerUtils.BuildingBlocks.Data.svg'></a>
-    </td>
-    <td>
-      <a href='https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data/actions/workflows/tests.yml'><img src='https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data/actions/workflows/tests.yml/badge.svg'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.BuildingBlocks.Data'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.BuildingBlocks.Data&metric=alert_status'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.BuildingBlocks.Data'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.BuildingBlocks.Data&metric=reliability_rating'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.BuildingBlocks.Data'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.BuildingBlocks.Data&metric=bugs'></a>
-    </td>
-  </tr>
-
-  <tr>
     <td><a href='https://github.com/TechNobre/PowerUtils.BuildingBlocks.Domain.Data'>PowerUtils.BuildingBlocks.Domain.Data</a></td>
     <td>
       <a href='https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Domain.Data'><img src='https://img.shields.io/nuget/v/PowerUtils.BuildingBlocks.Domain.Data.svg'></a>
