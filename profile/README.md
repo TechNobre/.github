@@ -170,21 +170,4 @@
     </td>
   </tr>
 
-
-
-  <tr>
-    <td><a href='https://github.com/TechNobre/PowerUtils.Security'>PowerUtils.Security</a></td>
-    <td>
-      <a href='https://www.nuget.org/packages/PowerUtils.Security'><img src='https://img.shields.io/nuget/v/PowerUtils.Security.svg'></a>
-      <a href='https://www.nuget.org/packages/PowerUtils.Security'><img src='https://img.shields.io/nuget/dt/PowerUtils.Security.svg'></a>
-    </td>
-    <td>
-      <a href='https://github.com/TechNobre/PowerUtils.Security/actions/workflows/tests.yml'><img src='https://github.com/TechNobre/PowerUtils.Security/actions/workflows/tests.yml/badge.svg'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.Security'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.Security&metric=alert_status'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.Security'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.Security&metric=coverage'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.Security'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.Security&metric=reliability_rating'></a>
-      <a href='https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.Security'><img src='https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.Security&metric=bugs'></a>
-    </td>
-  </tr>
-
 </table>
